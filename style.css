@@ -1,0 +1,296 @@
+
+.res{
+    height: 180vh;
+    background: url(./Mask\ group.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.mega{
+    width: 80%;
+    height: 10vh;
+    border: solid 1px #FFC01F;
+    background-color: #FFC01F;
+    margin: 10px auto;
+}
+
+form{
+    margin-top: 20px;
+    padding-left: 20px;
+    display: flex;
+    
+}
+
+a{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+
+.qwe{
+    margin-left: 50%;
+}
+
+.Awb{
+    margin: 20px;
+}
+
+.Asdra{
+    margin: 10px auto;
+    width: 80%;
+    border-bottom: solid 3px #F1F1F1;
+    display: flex;
+    justify-content: space-between;
+}
+.Asdra h3{
+margin-left: 10px;
+font-size: 20px;
+
+}
+.iop{
+    margin-right: 30px;
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+.nm{
+    padding-top: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    display: flex;
+    transition: 1s;
+}
+
+.nm:hover{
+    font-size: medium;
+    border-bottom: solid 1px beige;
+}
+
+.zxc{
+width: 80%;
+height: 60vh;
+margin: 30px auto;
+display: flex;
+transition: 1s;
+}
+
+.zxc:hover{
+    border-bottom: solid 5px beige;
+}
+.sad{
+    margin-top: 30px;
+}
+
+.sad button{
+    margin-left: 20px;
+    border-radius: 50px;
+    width: 20%;
+    padding: 10px;
+    border: solid 1px aqua;
+    background-color: azure;
+    transition: 1s;
+}
+
+button:hover{
+    background-color: aqua;
+}
+.zxc h1{
+    margin-left: 10px;
+    color: #596C72;
+    font-size: 50px    ;
+}
+
+.zxc p{
+    margin-left: 10px;
+}
+
+.kl{
+    background-image: url(./image\ 1.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: local;
+    margin-left: 10%;
+    width: 500px;
+    height: 300px;
+    border: solid 5px rgb(208, 225, 133);
+}
+
+.poi{
+    width: 80%;
+    height: 80vh;
+    margin: 30px auto;
+}
+.poi h3{
+    margin-left: 10px;
+color:#596C72;
+}
+
+.er{
+    display: flex;
+}
+
+.traxtr{
+    background-image: url(./image\ 29.png);
+    background-position: center;
+    background-size: cover;
+    width: 20%;
+    height: 30vh;
+    border: solid 5px #F5F5F5;
+    margin: 20px;
+}
+
+.traxtr h4{
+    font-size: 15px;
+    margin-left: 10px;
+    color: #596C72;
+}
+
+.cmn{
+    display: flex;
+}
+
+
+.qm{
+    height: 130vh;
+    background-image: url(./Mask\ group\ \(1\).png);
+    background-position: center;
+    background-size: cover;
+}
+
+.wm{
+    margin: 30px auto;
+    width: 80%;
+    height: 110vh;
+    display: flex;
+}
+.vm h2{
+    font-size: 50px;
+    margin-left: 15%;
+    color: #596C72;
+}
+
+.vm p{
+    margin-left: 15%;
+    color: #596C72;
+}
+
+.vm button{
+    border-radius: 50px;
+    padding: 10px;
+    margin-left: 15%;
+    border: solid 1px aqua;
+    background-color: rgb(253, 253, 253);
+    font-family: 'Times New Roman', Times, serif;
+    transition: 1s;
+}
+
+.vm button:hover{
+    font-size: medium;
+    background-color: aqua;
+}
+.xz{
+border: solid 10px rgb(247, 247, 247);
+background-image: url(./image\ 7.png);
+background-position: center;
+background-size: cover;
+width: 30%;
+height: 60vh;
+margin-top: 20%;
+} 
+.sm{
+    border: solid 10px rgb(243, 243, 242);
+    margin-left: 10%;
+    width: 80%;
+    height: 60vh;
+    background-image: url(./image\ 6.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.qm h3{
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 20px;
+    color: #596C72;
+}
+
+.mg{
+    height: 90vh;
+    background-image: url(./Mask\ group\ \(2\).png);
+}
+
+.mg .qui {
+    width: 20%;
+    border-radius: 50px;
+    margin-left: 35%;
+    padding: 10px;
+    border: none;
+    font-size: xx-small;
+    color: #FFC01F;
+    background-color: #FFC01F;
+    transition: 1s;
+}
+
+.mg .qui:hover{
+    font-size: 15px;
+    color: #596C72;
+}
+.dfg{
+    display: flex;
+    margin: 30px auto;
+    width: 90%;
+    height: 75vh;
+}
+
+.start{
+    background-image: url(./image\ 1.png);
+    background-position: center;
+    background-size: cover;
+    width: 80%;
+    height: 30vh;
+    margin: 25px;
+}
+
+.sxd{
+    border: solid 1px #F5F5F5;
+    margin: 25px;
+    width: 20%;
+    height: 65vh;
+    transition: 1s;
+}
+
+.sxd:hover{
+    border: solid 10px #F5F5F5;
+}
+
+.sxd h2{
+margin-left: 30px;
+font-size: 18px;
+color: #596C72;
+}
+
+.sxd p{
+margin-left: 30px;
+color: #596C72;
+}
+
+.sxd h3{
+    font-size: 15px;
+    color: red;
+    margin-left: 50%;
+}
+
+.sxd button{
+    padding: 5px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 30%;
+    border: solid 1px rgb(246, 214, 176);
+    background-color: #ffffff;
+    transition: 1s;
+}
+
+.sxd button:hover{
+    background-color: rgb(229, 245, 108);
+}
